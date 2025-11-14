@@ -1,2 +1,1 @@
-# restart_linux_audio-for-audio-bugs
-restarts all audio services to fix audio bugs
+this small bash script will restart all audio services to fix audio problems.
